@@ -1,7 +1,7 @@
 Joshua Jones
 jjo108@u.rochester.edu
 04/02/2023
-CSC 171 HW #5 - URPaint
+Paint Program
 
 Algorithm description- This algorithm allows users to to draw squares and circles 
 on a canvas, drag these shapes around, and change their color in addition to the 
