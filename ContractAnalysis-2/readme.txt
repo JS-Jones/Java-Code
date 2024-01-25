@@ -1,7 +1,7 @@
 Joshua Jones
 jjo108@u.rochester.edu
 03/02/2023
-CSC 171 HW #4 - Airplane
+Airplane Contract Analysis
 
 Algorithm description- The user first input a number which tells the program the number of airplanes to consider (which an array
 is made then). While loop through to that number, the user inputs airplane data for each including <name> <TOW_min> <TOW_max> <range> 
